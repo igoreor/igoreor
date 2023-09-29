@@ -8,8 +8,7 @@
 
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=igoreor&show_icons=true&theme=dark&bg_color=000000"/>
-  <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=igoreor&layout=compact&show_icons=true&theme=dark&bg_color=000000"/>
+  <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=igoreor&show_icons=true&theme=dark&bg_color=000000"/><img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=igoreor&layout=compact&show_icons=true&theme=dark&bg_color=000000"/>
 </div>
 
 
