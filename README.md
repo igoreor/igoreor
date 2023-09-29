@@ -1,21 +1,37 @@
-## Oi eu sou igor, estudante de programação e tecnologia!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2291ff&height=90&section=header"/>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-</div>
-  
-  ##
+<pre>                                 🎓💻 Estudante universitário de engenharia de software 
+                                                               🇧🇷 Brasil         </pre>
  
-<div> 
-  
-  <a href="https://instagram.com/igoreoliveiraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:igoreor24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-emanuel-oliveira-rêgo-974b82293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:igoreor24@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/igor-emanuel-oliveira-rêgo-974b82293/)  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/igoreoliveiraa/)
+
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=igoreor&show_icons=true&theme=radical&bg_color=000000"/>
+  <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=igoreor&layout=compact&show_icons=true&theme=radical&bg_color=000000"/>
 </div>
+
+
+<div align="center">
+ <h1>Tecnologias: </h1>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fa7bb&size=20&vCenter=true&width=1000&lines=technologies;Tecnologias+aprendidas+ou+em+aprendizagem:)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,git,java" />
+  </a>
+</p>  
+
+<div align="center">
+ <h1>IDEs: </h1>
+</div>
+<p align="center">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+    
+  </a>
+</p>
+    
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff2222&height=90&section=footer"/>
