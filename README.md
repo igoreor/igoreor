@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @igoreor
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on multi-language projects
-- 📫 How to reach me 
+##Olá, me chamo Igor 👋
 
-<!---
-igoreor/igoreor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?
+style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/
+c/sujeitoprogramador)
+[![Instagram] (https://img.shields.io/badge/Instagram-E4405F?
+style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.
+com/igoreoliveiraa)
+
+![igor GitHub stats](https://github-readme-stats.vercel.app/api?
+username=igoreor&show_icons=true&theme=dracula)
+## Tecnologias que eu uso no meu dia
