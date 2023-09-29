@@ -8,8 +8,8 @@
 
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=igoreor&show_icons=true&theme=dark&bg_color=999999"/>
-  <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=igoreor&layout=compact&show_icons=true&theme=dark&bg_color=999999"/>
+  <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=igoreor&show_icons=true&theme=dark&bg_color=000000"/>
+  <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=igoreor&layout=compact&show_icons=true&theme=dark&bg_color=000000"/>
 </div>
 
 
@@ -17,7 +17,7 @@
  <h1>Tecnologias: </h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fa7bb&size=20&vCenter=true&width=1000&lines=Tecnologias+aprendidas+ou+em+aprendizagem+🚀:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fa7bb&size=20&vCenter=true&width=1000&lines=Tecnologias+aprendidas+ou+em+aprendizagem:)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,java,git" />
